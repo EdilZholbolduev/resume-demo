@@ -1,0 +1,151 @@
+
+
+body{ 
+   text-align: center;
+   background-color: #E4F9F5;
+   position:relative;
+   height: 7000px;
+}
+
+
+h2{
+   font-size: 3.125rem;
+    color:#66BFBF;
+    font-family: 'VT323', monospace;
+    font-weight:normal;
+    margin-bottom:0px;
+}
+
+
+h1{
+   color: #66BFBF;
+    margin:0 ;
+    font-family: 'Sacramento', cursive;
+    font-size:45px;
+    line-height:2;
+    width:50%;
+    margin:auto;
+}
+
+p{
+   font-family: 'Chivo Mono', monospace;
+    color:grey;
+    font-size:16px;
+    line-height:2;
+    width:100%;
+    margin:auto;
+    height: 130px;
+}
+
+hr{
+   border-top-style:dotted;
+   border-bottom:none;
+   border-color:grey;
+   border-width:8px;
+   width:5%;
+   margin:110px auto 110px auto;
+}
+
+.a-web-designer{
+   font-family: 'Chivo Mono', monospace;
+    font-size:1.325rem;
+    color: #66BFBF;
+}
+
+
+.hello-koala{
+   width: 10rem;
+   float:left;
+}
+
+.mountain{
+   width:35rem;
+   margin-top:10px;
+}
+
+.cloud-absolute{
+   position:absolute;
+   right:100px;
+   top:80px;
+}
+
+
+.header{ 
+   width:50%;
+   margin:0px auto 140px auto;
+   height: 600px;
+   padding-top:150px;
+
+
+}
+
+
+.img-education{
+   width: 10rem;
+   float:right;
+   margin:5px 15px 15px 15px ;
+}
+
+.img-free-time{ 
+   width:10rem;
+   float: left;
+   margin-right:20px;
+}
+
+.img-hi{
+   
+   width: 10rem;
+   margin:5px 15px 15px 15px ;
+}
+
+.img-1{
+   
+   width: 10rem;
+   float: left;
+   margin:5px 15px 15px 15px ;
+  
+}
+.img-2{
+   border-radius:100%;
+   width: 10rem;
+   float:right;
+   margin:5px 15px 15px 15px ;   
+  
+}
+
+.img-do-koala{
+   width: 10rem;
+}
+
+.conteiner-1{
+   width: 60%;
+   margin:100px auto 100px auto;
+   text-align:right;
+
+}
+
+.conteiner-2{
+   width: 60%;
+   margin:100px auto 100px auto;
+   text-align: left;
+}
+
+.conteiner-3{
+   width: 60%;
+   margin:100px auto 100px auto;
+   text-align: right;
+}
+
+.conteiner-4{ 
+   width:60%;
+   margin:100px auto 100px auto;
+   text-align: left;
+}
+
+.text-1{
+   margin-bottom:180px;
+}
+
+.link-1{
+   text-decoration: none;
+}
